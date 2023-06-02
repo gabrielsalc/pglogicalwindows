@@ -1,0 +1,5 @@
+# pglogical extension
+comment = 'Replication with pglogical'
+default_version = '2.4.3'
+module_pathname = '$libdir/pglogical'
+relocatable = false
